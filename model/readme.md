@@ -9,4 +9,5 @@
 * TV -- http://dimensiva.com/3dmodels/w8-led-tv-by-sony/ 
 * Leica M9 Digital Camera -- http://dimensiva.com/3dmodels/leica-m9-digital-camera-by-leica/
 * Lego Farnsworth House -- http://dimensiva.com/3dmodels/farnsworth-house-by-lego/
-* 
+* Infinity Clock -- http://dimensiva.com/3dmodels/infinity-clock-by-bosa-ceramiche/
+* Grand Repose Lounge Chair -- http://dimensiva.com/3dmodels/grand-repose-lounge-chair-by-vitra/
