@@ -1,5 +1,5 @@
 # KittyKat
-
+Built for [HackISU Spring 2017](https://hackisu-s17.devpost.com/).
 ![alt text](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/481/540/datas/gallery.jpg "KittyKat")
 
 ## Inspiration
